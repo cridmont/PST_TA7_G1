@@ -1,4 +1,4 @@
-package com.example.amst8;
+package com.example.amst1;
 
 import androidx.appcompat.app.AppCompatActivity;
 

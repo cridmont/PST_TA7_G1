@@ -12,9 +12,9 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:gravity="center"
-        android:text="Categorias"
+        android:text="Categorías"
         android:textAlignment="center"
-        android:textColor="@color/colorPrimary"
+        android:textColor="#273248"
         android:textSize="24sp"
         android:textStyle="bold" />
 
@@ -22,9 +22,12 @@
         android:id="@+id/textView5"
         android:layout_width="match_parent"
         android:layout_height="56dp"
-        android:text="Escoga la categoría de su preferencia"
+        android:text="Escoja la categoría de su preferencia"
         android:textAlignment="center"
-        android:textSize="18sp" />
+        android:textAllCaps="false"
+        android:textColor="#273248"
+        android:textSize="18sp"
+        android:textStyle="italic" />
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
