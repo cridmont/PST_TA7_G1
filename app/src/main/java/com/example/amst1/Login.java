@@ -1,4 +1,4 @@
-package com.example.ta7_dm;
+package com.example.amst1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -10,7 +10,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class Login extends AppCompatActivity {
-    public static final String EXTRA_MESSAGE = "com.example.amst8.USUARIO";
+    public static final String EXTRA_MESSAGE = "com.example.amst1.USUARIO";
     private EditText usn, pw;
     private SQLiteDatabase db;
 

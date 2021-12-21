@@ -1,4 +1,4 @@
-package com.example.ta7_dm;
+package com.example.amst1;
 
 import org.junit.Test;
 
